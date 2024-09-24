@@ -2650,8 +2650,13 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
+<<<<<<< HEAD
     color: #291605;
     background-color: #6C4309;
+=======
+    color: #292929;
+    background-color: #EEA73B;
+>>>>>>> 5fd48a154945d6a017a41551a832c2cb85dfb812
     border-color: #EEA73B
 }
 
@@ -11109,7 +11114,11 @@ h6 {
 }
 
 .blog-nav .nav-link {
+<<<<<<< HEAD
     background: #303030;
+=======
+    background: #EEA73B;
+>>>>>>> 5fd48a154945d6a017a41551a832c2cb85dfb812
     color: #fff;
     font-size: 1rem;
     padding: 1rem;
