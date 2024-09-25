@@ -553,7 +553,6 @@ kbd kbd {
 pre {
     display: block;
     font-size: 87.5%;
-    color: #292929
 }
 
 pre code {
@@ -11419,4 +11418,12 @@ body {
 
 .config-panel .close .fa {
     color: #fff
+}
+
+.hljs-keyword{
+    color: #FBA7C6;
+}
+
+.hljs-comment{
+    color:#BFBCB0;
 }
